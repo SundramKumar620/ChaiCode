@@ -1,4 +1,16 @@
 
+### [Polyfills: Enabling Modern Features in Older Browsers](https://declarationandexpressionsinjssundram.hashnode.dev/function-declarations-vs-expressions-in-javascript)
+
+<a href="https://declarationandexpressionsinjssundram.hashnode.dev/function-declarations-vs-expressions-in-javascript" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a44da0cb-d554-4114-bda5-edefd3fb79f2" alt="TCP AND UDP" width="600">
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
+
 ### [Function Declarations vs Expressions in JavaScript](https://declarationandexpressionsinjssundram.hashnode.dev/function-declarations-vs-expressions-in-javascript)
 
 <a href="https://declarationandexpressionsinjssundram.hashnode.dev/function-declarations-vs-expressions-in-javascript" target="_blank">
