@@ -1,8 +1,8 @@
 
-### [Polyfills: Enabling Modern Features in Older Browsers](https://declarationandexpressionsinjssundram.hashnode.dev/function-declarations-vs-expressions-in-javascript)
+### [Polyfills: Enabling Modern Features in Older Browsers](https://polyfillsinjssundram.hashnode.dev/polyfills-enabling-modern-features-in-older-browsers)
 
-<a href="https://declarationandexpressionsinjssundram.hashnode.dev/function-declarations-vs-expressions-in-javascript" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a44da0cb-d554-4114-bda5-edefd3fb79f2" alt="TCP AND UDP" width="600">
+<a href="https://polyfillsinjssundram.hashnode.dev/polyfills-enabling-modern-features-in-older-browsers" target="_blank">
+  <img src="https://github.com/user-attachments/assets/39cfd441-55e2-48f3-8d53-197139208f93" alt="TCP AND UDP" width="600">
 </a>
 
 <br>
