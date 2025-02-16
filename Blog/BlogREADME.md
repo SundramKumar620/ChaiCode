@@ -1,4 +1,15 @@
 
+### [Understanding Prototypes in JavaScript](https://learnprototypeinjssundram.hashnode.dev/understanding-prototypes-in-javascript)
+
+<a href="https://learnprototypeinjssundram.hashnode.dev/understanding-prototypes-in-javascript" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0ec68de5-b636-469c-b9cb-3898627cd0e1" alt="TCP AND UDP" width="600">
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
 ### [Polyfills: Enabling Modern Features in Older Browsers](https://polyfillsinjssundram.hashnode.dev/polyfills-enabling-modern-features-in-older-browsers)
 
 <a href="https://polyfillsinjssundram.hashnode.dev/polyfills-enabling-modern-features-in-older-browsers" target="_blank">
