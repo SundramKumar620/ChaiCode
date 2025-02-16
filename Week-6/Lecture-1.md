@@ -8,7 +8,6 @@ Summary:-
 6. Prototype Chain: Objects inherit properties and methods from other objects.
 7. extends: Used for class inheritance to inherit properties and methods from a parent class.
 8. Arrow Functions: Shorter syntax that inherits `this` from the surrounding scope.
-9. Objects Everywhere: Functions, arrays, and even primitive types (like strings) are treated as objects in certain contexts.
+9. Objects Everywhere: Functions, arrays, and even primitive types (like strings) are treated as objects in certain contexts. 
 
-# Easer Link:-
-https://app.eraser.io/workspace/MSKrHtmZxpvUgZqn5qGq
+**Easer Link:- https://app.eraser.io/workspace/MSKrHtmZxpvUgZqn5qGq**
