@@ -1,8 +1,6 @@
 # JS Foundation
 
-Got it! Here's your summary with `<br>` tags added for use in your Markdown file:
-
----
+Summary:-
 
 1. **Variables & Constants:**<br>
    - Declaring variables using `let` and `const`.<br>
