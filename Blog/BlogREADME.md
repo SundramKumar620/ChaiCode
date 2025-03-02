@@ -1,4 +1,15 @@
 
+### [JavaScript and the DOM - Interacting with the Browser](https://whatisdomsundram.hashnode.dev/javascript-and-the-dom-interacting-with-the-browser)
+
+<a href="https://whatisdomsundram.hashnode.dev/javascript-and-the-dom-interacting-with-the-browser" target="_blank">
+  <img src="https://github.com/user-attachments/assets/38b88853-048a-4563-b678-43597cee2636" alt="TCP AND UDP" width="600">
+</a>
+
+<br>
+<br>
+<br>
+<br>
+
 ### [Understanding Prototypes in JavaScript](https://learnprototypeinjssundram.hashnode.dev/understanding-prototypes-in-javascript)
 
 <a href="https://learnprototypeinjssundram.hashnode.dev/understanding-prototypes-in-javascript" target="_blank">
