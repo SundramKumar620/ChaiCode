@@ -1,5 +1,7 @@
 # Lexical Scoping and Closure Function
 
+Summary :-
+
 1. **Lexical Scoping**: The scope of variables is determined by where a function is defined, not where it's called. Inner functions can access variables from their outer functions.
 
 2. **Closures**: When an inner function retains access to variables from its outer function, even after the outer function finishes executing. Closures allow for private data and persistent state.
