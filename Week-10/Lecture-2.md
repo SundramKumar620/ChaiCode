@@ -1,6 +1,6 @@
 # Building full stack Project 2
 
-Summary
+Summary :-
 
 1. **Always Use `await` in DB**:
    - `await` is used to ensure asynchronous operations like database queries finish before proceeding to the next task.
