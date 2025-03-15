@@ -1,4 +1,4 @@
-# Building full stack project
+# Building full stack project (Auth)
 Summary :-
 
 1. **NPM (Node Package Manager):**
